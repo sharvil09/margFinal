@@ -10,4 +10,4 @@ Here you can find the background and rationale behind our experiments and the hi
 This notebook is a well-documented showcase of how we prepared and analyzed our data while running the experiments. It also contains code for a real-time Reddit data comparator usin clustering to analyze and compare similar cities in GA.
 
 ### Potential Application
-To access our tool showcase, go to [this link](https://hub.gke2.mybinder.org/user/sharvil09-margfinal-whuup38i/tree). After it loads, choose the notebook labeled, "Comprehend Showcase.ipynb". After the notebook loads, navigation to the kernel option and click "Restart and run all cells".
+To access our tool showcase, go to [this link](https://mybinder.org/v2/gh/sharvil09/margFinal/HEAD). After it loads, choose the notebook labeled, "Comprehend Showcase.ipynb". After the notebook loads, navigation to the kernel option and click "Restart and run all cells". At the bottom of the page, choose a city from the list and generate your insights!
