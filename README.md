@@ -1,5 +1,5 @@
-# margFinal
-This is our final project for QTM 350.
+# Margherita Final Project - QTM 350
+This repo contains the code and links to our notebooks and data for our final project.
 
 ## You will find the following notebooks and tools in this repo. 
 
