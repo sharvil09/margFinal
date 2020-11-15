@@ -4,7 +4,7 @@ This repo contains the code and links to our notebooks and data for our final pr
 ## You will find the following notebooks and tools in this repo. 
 
 ### Blog Post 
-Here you can find the background and rationale behind our experiments and the high-level explanation of the AWS resources used in our project.
+Here you can find the background and rationale behind our experiments and the high-level explanation of the AWS resources used in our project. Access the blog post [here](https://marg-final-views.s3.amazonaws.com/QTM+350+Final+Blog.html)!!
 
 ### Data Preparation
 This notebook is a well-documented showcase of how we prepared and analyzed our data while running the experiments. It also contains code for a real-time Reddit data comparator usin clustering to analyze and compare similar cities in GA. To access this data, go [here](https://marg-final-views.s3.amazonaws.com/Data+Preparation+and+Analysis.html).
